@@ -100,9 +100,10 @@ React项目是模拟豆瓣，主要针对首页，阅读，音乐，影视以及
 
 
 
-#### Video Player           https://porisika.github.io/videoPlayer/
+####  Video Player           https://porisika.github.io/videoPlayer/
 **项目描述：**
 该项目是自己做的一个video player，可以选择播放歌曲、实现快进后退、播放暂停、放音静音、全屏以及退出等功能。
+
 **项目职责：**
 1.	使用html+css完成静态的页面布局，达到良好的视觉效果；
 2.  创建自定义属性实现点击当前视频进入播放；
