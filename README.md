@@ -1,8 +1,6 @@
 ### 教育背景
 
-You can use the [editor on GitHub](https://github.com/Porisika/porisika.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-2013.09-2017.07           北京联合大学           软件工程
+2013.09-2017.07						北京联合大学					软件工程
 
 主修课程：
 
@@ -28,15 +26,19 @@ You can use the [editor on GitHub](https://github.com/Porisika/porisika.github.i
 #### 电商网页（pc端）
 **项目描述：**
 该项目主要是模拟某家电商网站写的静态页面，有首页，商品列表页，详情页，登录注册页，支付页等。
+
 **项目职责：**
 1.	采用定宽布局，结合div+css完成页面基本布局以及功能；
 2.	运用js原生+jQuery实现基础的动态效果；
 3.	对各主流浏览器兼容问题的进行有效处理；
 4.	项目后期的性能优化处理；
 
+
+
 #### Vue项目
 **项目描述：**
 该项目是模拟豆瓣，主要针对首页，阅读，音乐，影视，登录注册，搜索以及详情展示的一款移动端项目。
+
 **项目职责：**
 1.	运用Vue.js提供的内置指令（v-bind/v-on/v-model/v-for等）来进行对DOM的操作；
 2.	通过创建组件构造器，自定义头部导航蓝和底部tab切换栏全局标签，有利于提高代码的复用率；
@@ -44,18 +46,24 @@ You can use the [editor on GitHub](https://github.com/Porisika/porisika.github.i
 4.	运用Base64插件对交互的数据进行解码；
 5.	项目后期代码的优化处理；
 
+
+
 #### Angular项目
 **项目描述：**
 Angular项目是模拟豆瓣，主要针对首页，阅读，音乐，影视，登录注册，搜索以及详情展示的一款移动端项目。
+
 **项目职责：**
 1.	运用AngularJS提供的内置指令（ng-app/an-class/ng-repeat/ng-href等）来进行对DOM的操作；
 2.	通过AngularJS的路由实现SPA开发，可以提升性能，增强用户体验；
 3.	通过AngularJS的$http服务来向服务器发送ajax请求，实现首页，阅读，音乐，影视，登录页面信息列表的渲染；
 4.	项目后期代码的优化处理；
 
+
+
 #### React项目
 **项目描述：**
 React项目是模拟豆瓣，主要针对首页，阅读，音乐，影视以及详情展示的一款移动端项目。
+
 **项目职责：**
 1.	通过Virtual DOM来进行对DOM的操作；
 2.	运用React的路由实现SPA开发，可以提升性能，增强用户体验；
@@ -63,9 +71,12 @@ React项目是模拟豆瓣，主要针对首页，阅读，音乐，影视以及
 4.	运用Base64插件对交互的数据进行解码；
 5.	项目后期代码的优化处理；
 
+
+
 #### Bootstrap官网      https://porisika.github.io/Bootstrap-Demo/home.html
 **项目描述：**
 该项目是仿照Bootstrap官网做的一个小demo。
+
 **项目职责：**
 1.	全局使用bootstrap响应式布局，实现屏幕任意缩放效果；
 2.  使用div+css完成页面基本布局以及功能；
@@ -73,9 +84,12 @@ React项目是模拟豆瓣，主要针对首页，阅读，音乐，影视以及
 4.  导航栏使用Bootstrap下拉列表，实现页面的跳转功能；
 5.  协助项目的后期性能优化和维护；
 
+
+
 #### 客家文化（APP）
 **项目描述：**
 客家文化APP是一款针对客家文化(民俗风情、客家美食、客家名人、客家商人等)的传播，用网络技术将客家文化结合起来，更好地传播文化。为大家提供更好的客家文化信息展示平台。
+
 **项目职责：**
 1.	对整个APP的设计与实现进行分析，调研项目的背景和来源以及开发需要的技术支持；
 2.	对整个项目进行可行性分析，需求分析；
@@ -83,6 +97,8 @@ React项目是模拟豆瓣，主要针对首页，阅读，音乐，影视以及
 4.	用Hbuilder编辑器，进行核心页面的开发，用js库jquery实现动态效果；
 5.	运用jquery的ajax进行数据交互，渲染页面；
 6.	项目的后期优化和维护；
+
+
 
 #### Video Player           https://porisika.github.io/videoPlayer/
 **项目描述：**
