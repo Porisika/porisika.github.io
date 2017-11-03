@@ -1,0 +1,41 @@
+body{
+	/*background-color: rgb(247,214,186);*/
+	/*background: url(https://images.pexels.com/photos/460607/pexels-photo-460607.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb) repeat-y center;*/
+}
+/*巨幕*/
+.jumbotron{
+	height: 450px;
+	background-size: cover;
+	color: seashell;
+	margin-top: -10px;
+}
+.jumbotron .btn-primary{
+	background-color: rgba(225,225,225,0);
+	border: 1px solid white;
+}
+.jumbotron .btn-primary:hover{
+	background-color: rgba(225,225,225,0.3);
+}
+.logoimg img{
+	border-radius: 50%;
+}
+
+/*内容展示*/
+.content{
+	width: 80%;
+	margin: 0 auto;
+}
+.thumbnail{
+	padding: 15px;
+	background:url(https://images.pexels.com/photos/172285/pexels-photo-172285.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb);
+	/*background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb);*/
+	
+	/*background: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb);*/
+	
+}
+.thumbnail img{
+	height: 303px;
+}
+.caption h3{
+	color: white;
+}
